@@ -12,5 +12,6 @@ This is the plan:
 1. `ls` to look around - see the files in the current directory.
 2. You'll notice the CHEST.md file. You can `cat` that if you're curious, but the output will be overwhelming. There's an easier way to find the key.
 3. Use `grep` to search for the word "secret" in the CHEST.md file. You'll find the line that contains the secret key.
-4. You can do this by typing `grep secret CHEST.md`.
-5. Once you've done this, you have enough information to answer the question on Rise.
+4. If you're on Mac/Linux, you can do this by typing `grep secret CHEST.md`.
+5. If you're on Windows, you can do this by typing `sls secret CHEST.md` instead.
+6. Once you've done this, you have enough information to answer the question on Rise.
