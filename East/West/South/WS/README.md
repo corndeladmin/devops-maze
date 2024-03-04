@@ -6,7 +6,7 @@ You open it, and inside is a giant pile of keys!
 Oh no!
 The secret key is almost certainly one of these, but however will you find the right one?
 You could look through them all manually. 
-But you have magical powers. You can use the `grep` command to search for the right one.
+But you have magical powers. You can use the `grep` command (or `sls` on Windows) to search for the right one.
 
 This is the plan:
 1. `ls` to look around - see the files in the current directory.
