@@ -6,7 +6,7 @@ That problem is: escape the area (of the text adventure) by finding a secret key
 
 Each folder is an area. This is the start point.
 
-Each area (folder) contains a description file (`README.md`). This file is the description for the starting area.
+Each area (folder) contains a description file (`README.md`). This file (the one you're reading now) is one such description file, and contains the description for the starting area, below.
 
 Each description will explain what's going on and what you need to do next. Eventually, you'll find the secret key.
 
